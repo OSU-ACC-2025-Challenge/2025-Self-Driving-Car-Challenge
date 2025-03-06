@@ -1,4 +1,4 @@
-# 2025-Self-Driving-Car-Challenge\
+# 2025-Self-Driving-Car-Challenge
 Repository for OSU's work for the 2025 ACC Self-Driving Car Challenge\
 
 [Team Discord:](https://discord.gg/2EK2mcF4) Join this discord where we'll do the majority of our discussion and meetings.\

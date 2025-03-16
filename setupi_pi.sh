@@ -19,9 +19,9 @@ echo "Installing required packages..."
 apt install -y git vim python3-pip docker.io curl locales software-properties-common
 
 # Enable SSH
-echo "Enabling SSH..."
-systemctl enable ssh
-systemctl start ssh
+#echo "Enabling SSH..."
+#systemctl enable ssh
+#systemctl start ssh
 
 # Configure system locale for ROS 2
 echo "Setting up locale..."
